@@ -31,5 +31,5 @@ How to install?
 * php bin/magento cache:clean
 
 Known issues:
-==============
+====================
 n/a
